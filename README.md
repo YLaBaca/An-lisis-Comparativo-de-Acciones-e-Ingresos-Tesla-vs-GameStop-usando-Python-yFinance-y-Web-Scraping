@@ -1,0 +1,1 @@
+# An-lisis-Comparativo-de-Acciones-e-Ingresos-Tesla-vs-GameStop-usando-Python-yFinance-y-Web-Scraping
